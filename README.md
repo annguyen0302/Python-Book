@@ -1,2 +1,2 @@
 # Python-Book
-Python book for data science
+Python book for and required mathematics skill for data science
